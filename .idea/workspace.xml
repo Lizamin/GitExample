@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4186e5e1-0c4b-4193-aa36-b91e1d42c3f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fileA.html" beforeDir="false" afterPath="$PROJECT_DIR$/fileA.html" afterDir="false" />
-    </list>
+    <list default="true" id="4186e5e1-0c4b-4193-aa36-b91e1d42c3f5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581612823652</updated>
-      <workItem from="1581612826634" duration="2694000" />
+      <workItem from="1581612826634" duration="4486000" />
     </task>
     <servers />
   </component>
@@ -56,9 +54,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581617566971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581617566971" />
     <state x="415" y="131" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581612858054">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="415" y="131" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581612858054" />
+    <state x="509" y="235" key="Github.ShareDialog" timestamp="1581617453784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="509" y="235" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1581617453784" />
   </component>
 </project>
